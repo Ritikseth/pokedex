@@ -1,7 +1,7 @@
 import sys
 import os
 from PIL import Image
-#New Changes....
+
 path = sys.argv[1]
 directory = sys.argv[2]
 
